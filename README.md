@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi there 👋, I'm James Chinedu
 
-<!--
-**chijamess/chijamess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Developer | Computer Science Graduate | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate with a passion for building responsive web applications, solving real-world problems with technology, and continuously expanding my technical skills. I enjoy creating clean, user-friendly interfaces and I'm actively growing my expertise in software development, data analysis, and modern development tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Sc. in Computer Science
+- 💼 Direct Sales Executive at First Bank of Nigeria
+- 🌐 Front-End Web Developer
+- 📊 Aspiring Data Analyst
+- 🔒 Certified in Cybersecurity Compliance
+- ⚙️ NEBOSH Health & Safety Award Holder
+- 🛠️ City & Guilds Level 3 Certified in Instrumentation & Control
+- 🌱 Currently learning SQL, Python, Power BI, Tableau, and advanced JavaScript
+- 🎯 Open to opportunities in Software Development, Data Analytics, Technology, and Digital Transformation
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages**
+- HTML5
+- CSS3
+- JavaScript
+- SQL (Learning)
+- Python (Learning)
+
+**Tools & Technologies**
+- Git
+- GitHub
+- Microsoft Excel
+- Microsoft Office
+- Power BI (Learning)
+- Tableau (Learning)
+
+---
+
+## 📂 Featured Projects
+
+### 🎓 Gold Chinedu-James University Website
+
+A modern, responsive university website built using HTML, CSS, and JavaScript.
+
+🔗 **Live Demo**  
+https://chijamess.github.io/gold-chinedu-james-university/
+
+📁 **Repository**  
+https://github.com/chijamess/gold-chinedu-james-university
+
+---
+
+## 🎯 Career Interests
+
+- Software Engineering
+- Front-End Development
+- Data Analytics
+- Business Intelligence
+- Technology Consulting
+- Digital Banking Solutions
+
+---
+
+## 📫 Let's Connect
+
+📧 Email: **chinedujameskingj@gmail.com**
+
+🌍 GitHub: **https://github.com/chijamess**
+
+---
+
+> *"Learning never stops. Every project is an opportunity to improve, innovate, and create impact."*
