@@ -53,6 +53,18 @@ https://github.com/chijamess/gold-chinedu-james-university
 
 ---
 
+### 🏦 Gold Chinedu-James Bank
+
+A modern, responsive banking website built using HTML, CSS, and JavaScript, featuring a clean user interface and an intuitive digital banking experience.
+
+🔗 **Live Demo**  
+https://chijamess.github.io/gold-chinedu-james-bank/
+
+📁 **Repository**  
+https://github.com/chijamess/gold-chinedu-james-bank
+
+---
+
 ## 🎯 Career Interests
 
 - Software Engineering
