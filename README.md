@@ -66,7 +66,7 @@ https://github.com/chijamess/gold-chinedu-james-university
 
 ## 📫 Let's Connect
 
-📧 Email: **chinedujameskingj@gmail.com**
+📧 Email: **odimegwujamess@gmail.com**
 
 🌍 GitHub: **https://github.com/chijamess**
 
